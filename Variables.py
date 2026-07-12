@@ -1,7 +1,7 @@
 # Variables in Python
 
 name = "Chutki"
-age = 16
+age = 17
 city = "Bhopal"
 
 print("Name:", name)
