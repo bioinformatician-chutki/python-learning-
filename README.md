@@ -10,12 +10,4 @@ I am learning Python for Bioinformatics.
 - Build Bioinformatics projects.
 - Prepare for research and future studies.
 
-## Topics Completed
-- ✅ Variables
 
-## Topics Coming Next
-- ⏳ Input
-- ⏳ Data Types
-- ⏳ Operators
-- ⏳ If-Else
-- ⏳ Loops
